@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="dccompiler.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="64"/>
+        <CursorPos X="75" Y="122"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="ucompiler.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uCompiler"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="587"/>
+        <CursorPos X="29" Y="609"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="uerror.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uError"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="18" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="uopcode.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uOpcode"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="21" Y="3"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\fpc\3.0.2\source\packages\fcl-base\src\custapp.pp"/>
+        <UnitName Value="CustApp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="432"/>
+        <CursorPos X="41" Y="545"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="24" HistoryIndex="23">
+      <Position1>
+        <Filename Value="dccompiler.lpr"/>
+        <Caret Line="92" TopLine="57"/>
+      </Position1>
+      <Position2>
+        <Filename Value="dccompiler.lpr"/>
+        <Caret Line="32" Column="25"/>
+      </Position2>
+      <Position3>
+        <Filename Value="dccompiler.lpr"/>
+        <Caret Line="31" Column="4" TopLine="16"/>
+      </Position3>
+      <Position4>
+        <Filename Value="dccompiler.lpr"/>
+        <Caret Line="33" TopLine="16"/>
+      </Position4>
+      <Position5>
+        <Filename Value="dccompiler.lpr"/>
+        <Caret Line="40" TopLine="16"/>
+      </Position5>
+      <Position6>
+        <Filename Value="dccompiler.lpr"/>
+        <Caret Line="46" TopLine="16"/>
+      </Position6>
+      <Position7>
+        <Filename Value="dccompiler.lpr"/>
+        <Caret Line="47" TopLine="16"/>
+      </Position7>
+      <Position8>
+        <Filename Value="dccompiler.lpr"/>
+        <Caret Line="48" TopLine="16"/>
+      </Position8>
+      <Position9>
+        <Filename Value="dccompiler.lpr"/>
+        <Caret Line="49" TopLine="16"/>
+      </Position9>
+      <Position10>
+        <Filename Value="dccompiler.lpr"/>
+        <Caret Line="30" TopLine="16"/>
+      </Position10>
+      <Position11>
+        <Filename Value="dccompiler.lpr"/>
+        <Caret Line="50" TopLine="16"/>
+      </Position11>
+      <Position12>
+        <Filename Value="dccompiler.lpr"/>
+        <Caret Line="104" TopLine="62"/>
+      </Position12>
+      <Position13>
+        <Filename Value="dccompiler.lpr"/>
+        <Caret Line="38" Column="12" TopLine="15"/>
+      </Position13>
+      <Position14>
+        <Filename Value="dccompiler.lpr"/>
+        <Caret Line="39" Column="13" TopLine="12"/>
+      </Position14>
+      <Position15>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="18" Column="100"/>
+      </Position15>
+      <Position16>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="193" Column="23" TopLine="156"/>
+      </Position16>
+      <Position17>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="18" Column="119" TopLine="5"/>
+      </Position17>
+      <Position18>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="193" Column="23" TopLine="156"/>
+      </Position18>
+      <Position19>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="614" Column="38" TopLine="587"/>
+      </Position19>
+      <Position20>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="363" Column="44" TopLine="333"/>
+      </Position20>
+      <Position21>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="413" Column="71" TopLine="382"/>
+      </Position21>
+      <Position22>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="535" Column="56" TopLine="498"/>
+      </Position22>
+      <Position23>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="536" Column="17" TopLine="499"/>
+      </Position23>
+      <Position24>
+        <Filename Value="ucompiler.pas"/>
+        <Caret Line="21" Column="145"/>
+      </Position24>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
